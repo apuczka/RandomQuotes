@@ -7,7 +7,7 @@
 
 body {
   /* background-color: red; */
-  background-color: hsl(217, 19%, 24%);
+  background-color: hsl(218, 23%, 16%);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -23,7 +23,7 @@ body {
   align-items: center;
   width: 460px;
   height: 370px;
-  background-color: hsl(217, 19%, 38%);
+  background-color: hsl(217, 19%, 24%);
   border-radius: 10px;
   position: relative;
   padding: 30px;
@@ -55,7 +55,7 @@ button {
   bottom: -20px;
   padding: 1px;
 }
-img {
+.img-button {
   width: 25px; 
   height: 25px;
   background-image: url('images/icon-dice.svg');
